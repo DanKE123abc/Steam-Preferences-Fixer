@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Steam国区内容锁区修复
-// @namespace    http://dkdk.eu.org/
+// @namespace    http://danke666.top/
 // @version      1.1
 // @author       DanKe
 // @description  修复Steam国区部分内容锁区导致的选项不可见
